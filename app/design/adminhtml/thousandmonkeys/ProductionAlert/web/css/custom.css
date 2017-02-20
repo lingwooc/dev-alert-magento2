@@ -7,9 +7,9 @@
 }
 
 .admin__menu .level-0._active > a {
-    background-color: #731a1a;
+    background-color: #652626;
 }
 
 .admin__menu .level-0:hover > a {
-    background-color: #652626;
+    background-color: #731a1a;
 }
