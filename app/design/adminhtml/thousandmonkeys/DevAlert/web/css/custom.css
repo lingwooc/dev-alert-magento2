@@ -1,3 +1,11 @@
 .menu-wrapper:before {
-    background-color: #940000;
-    }
+    background-color: #373330;
+}
+
+.admin__menu .level-0 > .submenu {
+    background-color: #731a1a;
+}
+
+.admin__menu .level-0:hover > a {
+    background-color: #731a1a;
+}
