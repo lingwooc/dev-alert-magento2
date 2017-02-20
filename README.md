@@ -1,5 +1,5 @@
-# dev-alert-magento2
-Changes the design of the admin panel. Install it on your dev server so you know that you aren't working on your public server.
+# production-alert-magento2
+Changes the design of the admin panel. Install it on your production server so you know that you are working on your public server.
 
 # Installation
 - Extract over your magento installation.
@@ -8,4 +8,4 @@ Changes the design of the admin panel. Install it on your dev server so you know
 - php bin/magento setup:static-content:deploy
 
 # Usage
-No idea  to be honest.
+Install and it does the work.

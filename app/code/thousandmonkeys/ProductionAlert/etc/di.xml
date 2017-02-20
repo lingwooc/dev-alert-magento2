@@ -3,7 +3,7 @@
 <type name="Magento\Theme\Model\View\Design">
         <arguments>
             <argument name="themes" xsi:type="array">
-                <item name="adminhtml" xsi:type="string">thousandmonkeys/DevAlert</item>
+                <item name="adminhtml" xsi:type="string">thousandmonkeys/ProductionAlert</item>
             </argument>
         </arguments>
     </type>
