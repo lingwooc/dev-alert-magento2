@@ -6,7 +6,7 @@
     background-color: #731a1a;
 }
 
-.admin__menu .level-0 > a {
+.admin__menu .level-0._active > a {
     background-color: #731a1a;
 }
 
