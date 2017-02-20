@@ -1,4 +1,4 @@
-# production-alert-magento2
+# productionAlert-magento2
 Changes the design of the admin panel. Install it on your production server so you know that you are working on your public server.
 
 # Installation
